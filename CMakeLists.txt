@@ -3,4 +3,4 @@ project(powerAnalyzer)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(powerAnalyzer main.cpp sineGenerator.cpp)
+add_executable(powerAnalyzer main.cpp sineGenerator.cpp dataSelector.cpp)
